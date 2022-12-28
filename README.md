@@ -1,6 +1,6 @@
 ## HI EVERYONE
 
-Ini adalah repository pengerjaan tugas dan lapora praktikum mata kuliah MACHINE LEARNING
+Ini adalah repository pengerjaan tugas dan laporan praktikum mata kuliah MACHINE LEARNING
 
 ## Introduce My Self
 
